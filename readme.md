@@ -1,4 +1,7 @@
-##hapi-basic-i18n
+##hapi-basic-i18n-accept-language
+
+* npm install hapi-basic-i18n-accept-language --save
+* npm install accept-language-parser --save 
 
 * Plugin options w/ registration;
 
