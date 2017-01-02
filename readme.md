@@ -8,7 +8,7 @@
 	```js
 	server.register([
     {
-        register: require("hapi-basic-i18n"),
+        register: require("hapi-basic-i18n-accept-language"),
         options: {
 			locale_path: "<absolutePath>",
 			cookie_name: "language",
