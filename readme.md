@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/visualjeff/hapi-basic-i18n-accept-language.png)](https://travis-ci.org/visualjeff/hapi-basic-i18n-accept-language)
+
 ##hapi-basic-i18n-accept-language
 
 * npm install hapi-basic-i18n-accept-language --save
