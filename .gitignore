@@ -1,37 +1,17 @@
 .idea
-
-lib-cov
-*.seed
-*.log
-*.csv
-*.dat
-*.out
-*.pid
-*.gz
-
-pids
-logs
-results
-node_modules
-bower_components
-.linker
-
+*.iml
 npm-debug.log
-
-kns.txt
-Downloads
-kns.sqlite*
-setup.json
-
-# node-webkit files
-*.exe
-*.dll
-*.pak
-
-# Mac OS X file system
+dump.rdb
+node_modules
+results.tap
+results.xml
+npm-shrinkwrap.json
+config.json
 .DS_Store
-# temporary files
-*~
-
-# Do not include in source control
-secrets.js
+*/.DS_Store
+*/*/.DS_Store
+._*
+*/._*
+*/*/._*
+coverage.*
+lib-cov
