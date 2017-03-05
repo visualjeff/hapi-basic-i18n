@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/visualjeff/hapi-basic-i18n-accept-language.png)](https://travis-ci.org/visualjeff/hapi-basic-i18n-accept-language)
+[![Build Status](https://travis-ci.org/visualjeff/hapi-basic-i18n.png)](https://travis-ci.org/visualjeff/hapi-basic-i18n)
 
 ##hapi-basic-i18n-accept-language
 
