@@ -1,6 +1,6 @@
 {
   "name": "hapi-basic-i18n-accept-language",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A forked version of hapi-basic-i18n for working with Accept-Language header",
   "main": "lib/index.js",
   "engines": {
