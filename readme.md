@@ -1,4 +1,8 @@
 [![Build Status](https://travis-ci.org/visualjeff/hapi-basic-i18n.png)](https://travis-ci.org/visualjeff/hapi-basic-i18n)
+[![bitHound Overall Score](https://www.bithound.io/github/visualjeff/hapi-basic-i18n/badges/score.svg)](https://www.bithound.io/github/visualjeff/hapi-basic-i18n)
+[![bitHound Dependencies](https://www.bithound.io/github/visualjeff/hapi-basic-i18n/badges/dependencies.svg)](https://www.bithound.io/github/visualjeff/hapi-basic-i18n/master/dependencies/npm)
+[![bitHound Dev Dependencies](https://www.bithound.io/github/visualjeff/hapi-basic-i18n/badges/devDependencies.svg)](https://www.bithound.io/github/visualjeff/hapi-basic-i18n/master/dependencies/npm)
+[![bitHound Code](https://www.bithound.io/github/visualjeff/hapi-basic-i18n/badges/code.svg)](https://www.bithound.io/github/visualjeff/hapi-basic-i18n)
 
 ##hapi-basic-i18n-accept-language
 
