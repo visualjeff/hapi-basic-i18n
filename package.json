@@ -1,6 +1,6 @@
 {
   "name": "hapi-basic-i18n-accept-language",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A forked version of hapi-basic-i18n for working with Accept-Language header",
   "main": "lib/index.js",
   "engines": {
@@ -29,16 +29,15 @@
     "url": "git@github.com:visualjeff/hapi-basic-i18n.git"
   },
   "bugs": {
-    "url": "https://github.com/visualjeff/lokijsPlugin/issues"
+    "url": "https://github.com/visualjeff/hapi-basic-i18n/issues"
   },
   "license": "MIT",
   "devDependencies": {
-    "code": "4.x.x",
+    "code": "^4.0.0",
     "handlebars": "^4.0.6",
-    "hapi": "13.x.x",
+    "hapi": "^16.1.0",
     "joi": "^10.2.2",
-    "lab": "10.x.x",
-    "lokijs": "^1.4.3",
+    "lab": "^13.0.1",
     "vision": "^4.1.1"
   }
 }

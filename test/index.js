@@ -1,3 +1,5 @@
+/*eslint-disable object-shorthand */
+
 'use strict';
 
 const Code = require('code');
@@ -174,7 +176,7 @@ describe('Hapi Basic i18n', () => {
                         not_exist: request.i18n('Hohoho')
                     };
                     return reply({
-                        localized: localized
+                        'localized': localized
                     });
                 }
             }
@@ -426,3 +428,6 @@ describe('Hapi Basic i18n', () => {
     });
 
 });
+
+
+/*eslint-enable object-shorthand */
